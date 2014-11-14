@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDemoGit", "MvcDemoGit\MvcDemoGit.csproj", "{E18C5ED2-DA9B-48AF-83D9-82D64D845507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDemoGit.Tests", "MvcDemoGit.Tests\MvcDemoGit.Tests.csproj", "{608A56A0-5AD0-47F8-8057-BAB0B9524ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18C5ED2-DA9B-48AF-83D9-82D64D845507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18C5ED2-DA9B-48AF-83D9-82D64D845507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18C5ED2-DA9B-48AF-83D9-82D64D845507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18C5ED2-DA9B-48AF-83D9-82D64D845507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608A56A0-5AD0-47F8-8057-BAB0B9524ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608A56A0-5AD0-47F8-8057-BAB0B9524ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608A56A0-5AD0-47F8-8057-BAB0B9524ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608A56A0-5AD0-47F8-8057-BAB0B9524ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
